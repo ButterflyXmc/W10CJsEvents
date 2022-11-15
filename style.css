@@ -1,0 +1,22 @@
+div{
+    border: solid rgb(255, 255, 255) 1px;
+    background-color: rgba(255, 255, 255, 0.124);
+    padding: 20px;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.599);
+    font-size: 5em;
+}
+
+h2{
+    color: rgb(189, 201, 212);
+}
+
+p{
+    color: rgba(255, 255, 255, 0.937);
+}
+
+h1{
+    background-image: url(https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2020-01/White-strawberries-from-japan.jpg);
+}
